@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JobFinder</string>
+    <string name="Button1">Create a profile to find jobs</string>
+    <string name="Button2">Post a job interview</string>
+</resources>
